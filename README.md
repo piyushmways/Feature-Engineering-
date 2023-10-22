@@ -1,7 +1,7 @@
 # Commentry
 This Business case centres a logistic Brand in India, which is a fast growing player by revenue. With intentention to improve quality, profitablity and efficiency of their services and Business, Machine Learning models are required to be built.
 
-I have done basic data cleaning & sanitization to get useful features for the model. the core focus in this work is feature engineering to make data available to be feed  for modelling purpose.
+I have done basic data cleaning & sanitization to get useful features for the model. the core focus in this work is feature engineering to make data readily available to be feed for modelling purpose.
 
 Key Highlights
 
