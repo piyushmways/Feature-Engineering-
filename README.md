@@ -12,6 +12,7 @@ Key Highlights
 4. Outleir detection and handling them
 5. Encoding of Catogorical features
 6. Feature Scaling
+
 ✨ Recommendation based on EDA
 
 
