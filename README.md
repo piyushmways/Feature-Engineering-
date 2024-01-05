@@ -5,7 +5,6 @@ I have done basic data cleaning & sanitization to get useful features for the mo
 
 Key Highlights
 
-✨ Defining a clear problem statement
 1. Preprocessing of Data
 2. Exploratory data Analysis
 3. Feature creation and their analysis
